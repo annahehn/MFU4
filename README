@@ -1,0 +1,5 @@
+pbesol_NEB: pbesol NEB calculations
+coordinates: pbesol NEB optimised coordinates
+pbe0_SP: single-point PBE0 energy calculations, based on pbesol NEB coordinates, inputs require kinddef and xcdef
+rscan_SP: single-point rSCAN energy calculations, based on pbesol NEB coordinates, inputs require kinddef
+double_hybrids: computations for double-hybrids and RPA
